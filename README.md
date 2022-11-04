@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.png" width="100%">
+  <img alt="calendario da copa" src=".github/preview.PNG" width="100%">
 </p>
 
 🔗[Clique aqui para acessar o projeto](https://nlw-copa-22.vercel.app/)
